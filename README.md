@@ -1,1 +1,3 @@
 # data-science-for-marketing
+Applied machine learning techniques like Random Forest and Artificial Neural Networks to predict customer engagement and retention. Utilized customer segmentation methods, including clustering and RFM analysis, to personalize marketing strategies. Developed predictive models to identify churn risks and optimize customer retention efforts. Leveraged data visualization and feature importance analysis for actionable marketing insights. Enhanced customer engagement and conversion rates through data-driven decision-making.
+Tools Used: Python (Numpy, Pandas, skitlearn, matplotlib)
